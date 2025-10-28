@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Logme</string>
+    <string name="app_description">Track your daily activities with style</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">Activity Logs</string>
+    <string name="add_log">Add Log</string>
+    <string name="no_logs">No activity logs yet</string>
+    <string name="tap_to_add">Tap + to create your first log</string>
+    
+    <!-- Add Log Screen -->
+    <string name="new_log_title">New Activity Log</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+    <string name="category_label">Category</string>
+    <string name="save_log">Save Activity Log</string>
+    
+    <!-- Premium Screen -->
+    <string name="premium_title">Premium Features</string>
+    <string name="unlock_premium">Unlock Premium Templates</string>
+    <string name="premium_description">Get access to advanced activity log templates with enhanced features</string>
+    <string name="subscription_title">Monthly Subscription</string>
+    <string name="consumable_title">One-Time Purchase</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="unlock_template">Unlock Template</string>
+    
+    <!-- Templates -->
+    <string name="basic_template">Basic Log</string>
+    <string name="premium_template_1">Detailed Journal</string>
+    <string name="premium_template_2">Professional Log</string>
+    <string name="premium_template_3">Health Tracker</string>
+    
+    <!-- Messages -->
+    <string name="purchase_success">Purchase successful!</string>
+    <string name="purchase_cancelled">Purchase cancelled</string>
+    <string name="purchase_error">Purchase failed</string>
+    <string name="delete_confirmation">Are you sure you want to delete this activity log?</string>
+</resources>
